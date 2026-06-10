@@ -1,3 +1,5 @@
+6b1f761 fix: implement nag patching for pc and mobile web (#193)
+
 e157336 pve-mod-configure: fix validate the sensors -j output before proceeding (#188)
 
 No src/ changes detected.

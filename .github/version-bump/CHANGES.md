@@ -1,3 +1,5 @@
+No src/ changes detected.
+
 abe8dcf chore: enforce LF line endings via .gitattributes (#206)
 
 6b1f761 fix: implement nag patching for pc and mobile web (#193)

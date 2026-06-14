@@ -1,3 +1,5 @@
+8547e33 fix(workflow): More deps for test mod 3 (#215)
+
 No src/ changes detected.
 
 No src/ changes detected.

@@ -1,3 +1,5 @@
+96b8a12 refactor mod configurator (#222)
+
 5df83ec fix collectors, modular apply/unapply patches, correct config loading in pve-mod-configure (#208)
 
 8547e33 fix(workflow): More deps for test mod 3 (#215)

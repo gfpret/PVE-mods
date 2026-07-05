@@ -1,3 +1,5 @@
+8d17ad9 fix temperature conversion (#232)
+
 70f9790 implement toggling of widgets (#227)
 
 96b8a12 refactor mod configurator (#222)

@@ -1,3 +1,5 @@
+70f9790 implement toggling of widgets (#227)
+
 96b8a12 refactor mod configurator (#222)
 
 5df83ec fix collectors, modular apply/unapply patches, correct config loading in pve-mod-configure (#208)
